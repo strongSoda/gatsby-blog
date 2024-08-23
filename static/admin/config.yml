@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: github
+  repo: strongSoda/gatsby-blog
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
