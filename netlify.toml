@@ -1,0 +1,6 @@
+[build]
+command = "npm run build --force"
+publish = "public"
+
+[build.environment]
+NODE_VERSION = "18.20.4"
